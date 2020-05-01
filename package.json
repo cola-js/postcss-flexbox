@@ -14,11 +14,15 @@
   ],
   "author": "Archana Sankaranarayanan",
   "license": "MIT",
+  "files": [
+    "index.js",
+    "flexbox-configs.js"
+  ],
   "dependencies": {
-    "ava": "^0.20.0",
-    "postcss": "^5.0.13"
+    "postcss": "^7"
   },
   "devDependencies": {
+    "ava": "^0.20.0",
     "eslint": "^1.10.3"
   }
 }
